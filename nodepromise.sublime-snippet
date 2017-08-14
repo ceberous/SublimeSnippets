@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-return new Promise( async function( resolve , reject ) {
+return new Promise( function( resolve , reject ) {
 	try {
 		resolve();
 	}
